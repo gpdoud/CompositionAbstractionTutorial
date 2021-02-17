@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositionAbstractionTutorial", "CompositionAbstractionTutorial\CompositionAbstractionTutorial.csproj", "{9DB1D8BA-7EB2-4075-BFD6-71C2A83BD485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DB1D8BA-7EB2-4075-BFD6-71C2A83BD485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB1D8BA-7EB2-4075-BFD6-71C2A83BD485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB1D8BA-7EB2-4075-BFD6-71C2A83BD485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB1D8BA-7EB2-4075-BFD6-71C2A83BD485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EDD62C9-3F02-48EA-9649-A4329B68D3A8}
+	EndGlobalSection
+EndGlobal
